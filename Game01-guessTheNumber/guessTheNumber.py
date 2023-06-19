@@ -7,7 +7,6 @@ Guessing a number from 1 to 100000
 '''
 
 from random import randint
-from pickle import NONE
 
 start = 1
 end = 1000
